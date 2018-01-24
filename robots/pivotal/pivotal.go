@@ -10,7 +10,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/trinchan/slackbot/robots"
+	"github.com/zuercher/slackbot/robots"
 )
 
 type bot struct {

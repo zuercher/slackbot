@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/trinchan/slackbot/robots"
+	"github.com/zuercher/slackbot/robots"
 )
 
 type profile struct {

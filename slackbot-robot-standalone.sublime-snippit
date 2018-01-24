@@ -4,8 +4,8 @@
 package ${1:${TM_FILENAME/(.*?)(\..+)/$1/}}
 
 import (
-  "github.com/trinchan/slackbot/robots"
-  "github.com/trinchan/slackbot/server"
+  "github.com/zuercher/slackbot/robots"
+  "github.com/zuercher/slackbot/server"
 )
 
 type bot struct{}
